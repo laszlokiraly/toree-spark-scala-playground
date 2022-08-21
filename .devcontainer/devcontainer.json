@@ -1,0 +1,10 @@
+{
+	"name": "Toree Spark Scala Dev Container",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+
+	"extensions": [
+	]
+
+}
